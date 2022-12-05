@@ -116,3 +116,16 @@ Singleton (default)
 Prototype
 
 Request and session scope
+
+## view resolver
+
+## servlet config or controller
+
+## component scanning
+
+## controller
+Request mapping
+Using model and view to set attribute and everything
+Parameters and all
+Required, and default value
+Using model map to add attributes
